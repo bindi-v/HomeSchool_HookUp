@@ -130,7 +130,7 @@ For more information about the license, check the above link.
 
 ## Contribution
 
-Caitlin Wall, Rose Luu, Bryanna Vinge and Bindubahen Vaghela
+Caitlin Wall, Rose Luu, Bryanna Vinge and Bindu Vaghela
 
 ## Contact
 
@@ -153,8 +153,6 @@ If you have any questions, please reach out to our Github,
 
 ## Deployed Link
 
-* [The URL of the deployed application on Heroku](https://spooky-castle-63582.herokuapp.com/)
+* [The URL of the deployed application on Render](https://homeschool-hookup.onrender.com)
 
-* [The URL of the GitHub repository](https://github.com/Homeschool-Hookup/HomeSchool_HookUp)
-
-#### Thank you for visiting our Github!
+#### Thank you for visiting my Github!
