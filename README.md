@@ -153,6 +153,6 @@ If you have any questions, please reach out to our Github,
 
 ## Deployed Link
 
-* [The URL of the deployed application on Heroku](https://homeschool-hookup.onrender.com)
+* [The URL of the deployed application on Render](https://homeschool-hookup.onrender.com)
 
 #### Thank you for visiting our Github!
