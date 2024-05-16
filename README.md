@@ -134,7 +134,7 @@ Caitlin Wall, Rose Luu, Bryanna Vinge and Bindu Vaghela
 
 ## Contact
 
-* GitHub :[Homeschool-Hookup](https://github.com/Homeschool-Hookup)
+* GitHub :[Homeschool-Hookup](https://github.com/Homeschool-Hookup/)
 
 * Email : caitlinwall96@gmail.com, 
           luuhongnhung10@gmail.com,
